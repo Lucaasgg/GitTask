@@ -4,6 +4,6 @@ public class main {
         System.out.println("base line");
         System.out.println("conflict solved");
         System.out.println("Líne 3");
-        System.out.println("switching to master");
+        System.out.println("modifying in master");
     }
 }
