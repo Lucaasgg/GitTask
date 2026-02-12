@@ -4,5 +4,6 @@ public class main {
         System.out.println("base line");
         System.out.println("Líne 2");
         System.out.println("Líne 3");
+        System.out.println("switching to master");
     }
 }
